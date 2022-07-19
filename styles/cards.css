@@ -1,0 +1,39 @@
+.profile {
+  width: 150px;
+  height: 160px;
+  object-fit: cover;
+}
+.card {
+  width: 150px;
+  border: none;
+  box-shadow: 0 0 3px gray;
+  display: inline-block;
+  margin-right: 15px;
+  border-radius: 2px;
+}
+.name,
+.friends,
+.add-button {
+  margin: 0px;
+  margin: 5px;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.name {
+  font-weight: bold;
+}
+.friends {
+  font-size: 12px;
+}
+.add-button {
+  border: none;
+  box-shadow: 0 0 3px gray;
+  color: white;
+  background-color: dodgerblue;
+  padding: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 3px;
+  cursor: pointer;
+}

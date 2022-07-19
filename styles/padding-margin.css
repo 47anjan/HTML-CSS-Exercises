@@ -1,0 +1,37 @@
+button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 5px;
+}
+a {
+  margin: 4px;
+}
+.strech {
+  background-color: green;
+  border: none;
+  color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+  transition: padding-right, 0.5s;
+  transition: padding-left, 0.5s;
+  transition: padding-top, 0.5s;
+  transition: padding-bottom, 0.5s;
+  transition: font-size, 0.5s;
+}
+.strech:hover {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+.shadow {
+  background-color: green;
+  border: none;
+  color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.shadow:active {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}

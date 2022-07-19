@@ -1,0 +1,27 @@
+.price {
+  color: rgb(0, 118, 0);
+  font-size: 18px;
+}
+p {
+  font-size: 18px;
+}
+button {
+  border: none;
+  height: 36px;
+  width: 118px;
+  border-radius: 18px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.cart {
+  background-color: rgb(255, 216, 20);
+  margin-right: 10px;
+}
+.buy {
+  background-color: rgb(255, 164, 28);
+}
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}

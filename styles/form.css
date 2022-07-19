@@ -1,0 +1,37 @@
+.fName,
+.lName {
+  height: 35px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: none;
+  box-shadow: 0 0 3px gray;
+  margin-right: 5px;
+}
+
+.email {
+  display: block;
+  height: 35px;
+  width: 357px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: none;
+  box-shadow: 0 0 3px gray;
+}
+.singup {
+  height: 35px;
+  width: 370px;
+  padding-left: 10px;
+  border-width: 1px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: none;
+  background-color: dodgerblue;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  box-shadow: 0 0 3px gray;
+}

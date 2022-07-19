@@ -1,0 +1,21 @@
+div {
+  border: none;
+  width: 350px;
+  box-shadow: 0 0 3px gray;
+  padding: 15px;
+  background-color: black;
+}
+.title {
+  font-size: 20px;
+  margin: 0px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: white;
+}
+.subtitle {
+  margin: 0px;
+  color: rgb(219, 207, 207);
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}

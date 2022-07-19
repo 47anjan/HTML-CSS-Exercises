@@ -1,0 +1,15 @@
+.google-search {
+  height: 14px;
+  width: 400px;
+  padding: 8px;
+  border-radius: 14px;
+  border: none;
+  box-shadow: 0 0 3px gray;
+  margin-bottom: 20px;
+}
+.google {
+  width: 180px;
+  display: block;
+  margin-left: 130px;
+  margin-bottom: 10px;
+}
